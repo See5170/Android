@@ -1,0 +1,29 @@
+使用工具
+android-studio3.0
+java SDK
+android SDK
+andriod 特性
+四大组件
+
+活动 Activity
+服务 Service
+广播接收器 Broadcast Receiver
+内容提供器 Content Provider
+丰富的控件
+
+Sqlite数据库
+强大的多媒体
+地理位置定位
+
+简单入门
+1.新建项目 
+2.创建并加载布局 
+3.在AndroidManifest中注册 
+4.使用Toast提醒用户 
+5.使用Menu扩充菜单 
+6.销毁活动（finish） 
+7.使用Intent在活动中穿梭（显式与隐式），及其他高级用法（打开网页，tel电话），向其他活动传递或返回数据
+在android 最初学习阶段，通常会遇到很多问题，Andorid 学习过程中知识点繁多，难以熟练的应用，不经过很长一段时间很难以熟练地运用自己所学的知识
+其实Andorid 并不是很难，无非就是布局，Activity 中获取布局，对布局进行传值操作。
+有个好的办法 你在使用 一款app 的时候 可以试着去思考实现的原理 在学习fragment 以及 ViewPer之前基本都是些很简单的布局以及监听的使用，不涉及很深的方法
+学习Android 开发 fragment ViewPager 适配器是必不可少的，在任意一款app 中都有所应用
